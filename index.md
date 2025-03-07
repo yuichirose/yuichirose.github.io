@@ -5,7 +5,7 @@ title: Home
 layout: home
 ---
 
-## Yuichi Hirose
+# Yuichi Hirose
 
 I am a PhD student in [Carnegie Mellon University]’s [Robotics Institute], advised by [Jim McCann] in the [Textiles Lab]. My research interest lies in digital fabrication, particularly in *[solid knitting]*, a new fabrication technique to knit dense, volumetric objects, which I invented. I am developing a *[solid knitting machine]* to automate the process.
 

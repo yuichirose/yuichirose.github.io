@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Yuichi Hirose
+title: 
 # email: your-email@example.com
 # description: >- # this means to ignore newlines until "baseurl:"
 #   Write an awesome description for your new site here. You can edit this
@@ -37,6 +37,9 @@ theme: just-the-docs
 
 plugins:
   - jekyll-feed
+
+logo: "/assets/images/solidknit-sandals.png"
+favicon_ico: "/assets/images/solidknit-sandals-favicon.png"
 
 # Exclude from processing.
 # The following items will not be processed, by default.

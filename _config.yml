@@ -41,6 +41,9 @@ plugins:
 logo: "/assets/images/solidknit-sandals.png"
 favicon_ico: "/assets/images/solidknit-sandals-favicon.png"
 
+just_the_docs:
+  custom_css: "assets/css/custom-styles.scss"
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

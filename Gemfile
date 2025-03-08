@@ -1,4 +1,4 @@
-# See https://docs.github.com/ja/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-a-repository-for-your-site
+# See https://docs.github.com/ja/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll
 
 source "https://rubygems.org"
 # Hello! This is where you manage which Jekyll version is used to run.

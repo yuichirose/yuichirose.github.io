@@ -35,15 +35,20 @@ ACM Transactions on Graphics (SIGGRAPH 2024)
 [DOI](https://dl.acm.org/doi/10.1145/3658123)
 [Best Paper (Honorable Mention)](https://blog.siggraph.org/2024/06/siggraph-2024-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/){: .label .label-green }  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uVRXWlpiyAc?si=3qHagfMogun07uTd&amp;start=5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="embed-container">
+    <!-- <iframe style="width: 80%; aspect-ratio: 16/9;" src="https://www.youtube.com/embed/uVRXWlpiyAc?si=3qHagfMogun07uTd&amp;start=5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
+    <iframe src="https://www.youtube.com/embed/uVRXWlpiyAc?si=3qHagfMogun07uTd&amp;start=5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 ### Manual NC Plotter
 Yuichi Hirose, Hiroya Tanaka  
 ACM SIGGRAPH 2013 Posters  
 [DOI](https://dl.acm.org/doi/abs/10.1145/2503385.2503435)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S1Fd5ZiJzN8?si=WFWLwpNx-U25Xtnk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<div class="embed-container">
+    <!-- <iframe style="width: 80%; aspect-ratio: 16/9;" src="https://www.youtube.com/embed/S1Fd5ZiJzN8?si=WFWLwpNx-U25Xtnk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
+    <iframe src="https://www.youtube.com/embed/S1Fd5ZiJzN8?si=WFWLwpNx-U25Xtnk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 [Carnegie Mellon University]: https://www.cs.cmu.edu/
 [Robotics Institute]: https://www.ri.cmu.edu/

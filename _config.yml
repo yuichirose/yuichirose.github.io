@@ -44,6 +44,45 @@ favicon_ico: "/assets/images/solidknit-sandals-favicon.png"
 just_the_docs:
   custom_css: "assets/css/custom-styles.scss"
 
+nav_external_links:
+  - title: Top
+    url: /#top
+    hide_icon: true # set to true to hide the external link icon - defaults to false
+    opens_in_new_tab: false # set to true to open this link in a new tab - defaults to false
+  - title: Research
+    url: /#research
+    hide_icon: true
+    opens_in_new_tab: false
+  - title: Course Projects
+    url: /#course-projects
+    hide_icon: true
+    opens_in_new_tab: false
+  - title: Weekend Projects
+    url: /#weekend-projects
+    hide_icon: true
+    opens_in_new_tab: false
+  - title: Patent
+    url: /#patent
+    hide_icon: true
+    opens_in_new_tab: false
+  - title: Grants, Scholarship & Awards
+    url: /#grants-scholarship--awards
+    hide_icon: true
+    opens_in_new_tab: false
+  - title: Talks & Exhibition
+    url: /#talks--exhibition
+    hide_icon: true
+    opens_in_new_tab: false
+  - title: Miscellanea
+    url: /#miscellanea
+    hide_icon: true
+    opens_in_new_tab: false
+
+back_to_top: false
+back_to_top_text: "Back to top"
+
+color_scheme: green
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

@@ -110,7 +110,9 @@ Research funding: 12,816,000 JPY
 Research funding: 6,000,000 JPY  
 [article](https://innouvators.com/en/article/10242/)  
 - S-Booster JAXA Prize (2021)  
-[article](https://innouvators.com/en/article/10242/)
+[article 1](https://aerospacebiz.jaxa.jp/topics/news/s-booster2021_solidknit/) / 
+[article 2](https://global.jaxa.jp/activity/pr/jaxas/no087/04.html) /
+[video](https://youtu.be/AI2rZGxZX6g?feature=shared)
 - MITOU Advanced Program (2019 - 2020)  
 Research funding: 4,567,000 JPY
 - Kamoe Art Center Artist-in-residence Program [Artist of the Year](https://kamoeartcenter.org/2019%E5%B9%B4%E5%BA%A6%E3%82%A2%E3%83%BC%E3%83%86%E3%82%A3%E3%82%B9%E3%83%88%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%BB%E3%83%AC%E3%82%B8%E3%83%87%E3%83%B3%E3%82%B9%E8%B3%9E%E5%8F%97%E8%B3%9E%E8%80%85/)
@@ -130,8 +132,8 @@ _Solid Knitting Machine - Machine Which Makes Physical Objects Updatable._
 [video](https://youtu.be/vWMN-c_F3-o?feature=shared)
 - Online talk for Japán Alapítvány Budapest (Japan Foundation, Budapest) (Jan. 2021)  
 _Solid Knitting Machine - Machine Which Makes Physical Objects Updatable._  
-[video1](https://youtu.be/pzuz-kbLf-A?feature=shared) / 
-[video2](https://youtu.be/28eE2mS_L6c?feature=shared)
+[video 1](https://youtu.be/pzuz-kbLf-A?feature=shared) / 
+[video 2](https://youtu.be/28eE2mS_L6c?feature=shared)
 - Talk at FabLab SENDAI – FLAT (as part of the Sendai Mediatheque Art Node Program) (Dec. 2020)  
 _完成させる必要のないものづくり (Making that doesn’t need to be completed)._  
 [article](https://artnode.smt.jp/report/20210218_8511) /

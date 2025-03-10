@@ -69,7 +69,7 @@ _STL voxelizer using ray casting algorithm and baycentric coordinate system_
 
 ## Weekend Projects
 
-### **Remote Blocks** (2014)
+### **Remote Blocks** (2016)
 _Customizable learning remote control_  
 <div class="image-container">
     <img style="width: 50%;" src="assets/images/remote-blocks.jpg" alt="Image of Remote Blocks">

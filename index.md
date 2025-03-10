@@ -34,6 +34,11 @@ ACM Transactions on Graphics (SIGGRAPH 2024)
 [doi](https://dl.acm.org/doi/10.1145/3658123)
 [Best Paper (Honorable Mention)](https://blog.siggraph.org/2024/06/siggraph-2024-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/){: .label .label-yellow }  
 
+[solid knitting samples](https://photos.app.goo.gl/vugGd1rNnUvkTyXg7)  
+Many of the samples in this album are _hand-knitted_, not by the machine described in the paper. My PhD goal is to enable the machine to knit them.
+
+<br>
+
 ### **Manual NC Plotter** (2013)
 _"Drawing music box" that draws when a rack (bar-shaped gear) is inserted_  
 <div class="embed-container">
@@ -54,7 +59,8 @@ _Trajectory simulation and optimization of five-bar linkage_
     <img src="assets/images/linkage-optimizer.png" alt="Image of Linkage Optimizer">
 </div>
 [code](https://github.com/yuichirose/linkage-optimizer) /
-[paper](https://drive.google.com/file/d/1kLVS_Devlsu2HFekvGNteaaIAGRVHBvL/view?usp=sharing)
+[paper](https://drive.google.com/file/d/1kLVS_Devlsu2HFekvGNteaaIAGRVHBvL/view?usp=sharing)  
+<br>
 
 ### **STL Voxelizer** (2023)
 _STL voxelizer using ray casting algorithm and baycentric coordinate system_

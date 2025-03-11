@@ -33,7 +33,16 @@ ACM Transactions on Graphics (SIGGRAPH 2024)
 [paper](https://drive.google.com/file/d/1_Ly3i_uj_Tvu1TLCtzh8lTtWGDQMTGD6/view?usp=sharing) /
 [doi](https://dl.acm.org/doi/10.1145/3658123)
 [Best Paper (Honorable Mention)](https://blog.siggraph.org/2024/06/siggraph-2024-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/){: .label .label-yellow }  
+<br>
 
+<div class="image-container">
+    <img style="width: 50%;" src="assets/images/solidknit-pyramid.png" alt="Image of solid-knit pyramid">
+    <img style="width: 50%;" src="assets/images/solidknit-sandals-bg.jpg" alt="Image of solid-knit sandals">
+</div>
+<div class="image-container">
+    <img style="width: 50%;" src="assets/images/solidknit-cube.jpg" alt="Image of solid-knit cube. A person stands on it.">
+    <img style="width: 50%;" src="assets/images/solidknit-unravel.jpg" alt="Image of unraveling solid-knitcube">
+</div>
 [solid knitting samples](https://photos.app.goo.gl/vugGd1rNnUvkTyXg7)  
 Many of the samples in this album are _hand-knitted_, not by the machine described in the paper. My PhD goal is to enable the machine to knit them.
 

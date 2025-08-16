@@ -22,7 +22,7 @@ Previously, I graduated with a bachelor's and a master's from Keio University Sh
 
 ## Research 
 ### **Solid Knitting** (2024)  
-_3D volumetric knitting technique and machine, design tool, and programming language to automate it_  
+3D volumetric knitting technique, and the machine, design tool, and programming language to automate it.  
 
 <div class="embed-container">
     <iframe src="https://www.youtube.com/embed/uVRXWlpiyAc?si=3qHagfMogun07uTd&amp;start=5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -35,21 +35,37 @@ ACM Transactions on Graphics (SIGGRAPH 2024)
 [Best Paper (Honorable Mention)](https://blog.siggraph.org/2024/06/siggraph-2024-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/){: .label .label-yellow }  
 <br>
 
-<div class="image-container">
+<!-- <div class="image-container">
     <img style="width: 50%;" src="assets/images/solidknit-pyramid.png" alt="Image of solid-knit pyramid">
     <img style="width: 50%;" src="assets/images/solidknit-sandals-bg.jpg" alt="Image of solid-knit sandals">
 </div>
 <div class="image-container">
     <img style="width: 50%;" src="assets/images/solidknit-cube.jpg" alt="Image of solid-knit cube. A person stands on it.">
     <img style="width: 50%;" src="assets/images/solidknit-unravel.jpg" alt="Image of unraveling solid-knitcube">
+</div> -->
+
+<div class="gallery ratio-16-10_6 cover">
+  <a class="tile" href="assets/images/solidknit-pyramid.png">
+    <img src="assets/images/solidknit-pyramid.png" alt="Solid-knit pyramid">
+  </a>
+  <a class="tile" href="assets/images/solidknit-sandals-bg.jpg">
+    <img src="assets/images/solidknit-sandals-bg.jpg" alt="Solid-knit sandals">
+  </a>
+  <a class="tile" href="assets/images/solidknit-cube.jpg">
+    <img src="assets/images/solidknit-cube.jpg" alt="Solid-knit cube">
+  </a>
+  <a class="tile" href="assets/images/solidknit-unravel.jpg">
+    <img src="assets/images/solidknit-unravel.jpg" alt="Unraveling solid-knit cube">
+  </a>
 </div>
+
 [solid knitting samples](https://photos.app.goo.gl/vugGd1rNnUvkTyXg7)  
 Many of the samples in this album are _hand-knitted_, not by the machine described in the paper. My PhD goal is to enable the machine to knit them.
 
 <br>
 
 ### **Manual NC Plotter** (2013)
-_"Drawing music box" that draws when a rack (bar-shaped gear) is inserted_  
+"Drawing music box" that draws when a rack (bar-shaped gear) is inserted.  
 <div class="embed-container">
     <iframe src="https://www.youtube.com/embed/S1Fd5ZiJzN8?si=WFWLwpNx-U25Xtnk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
@@ -63,16 +79,18 @@ ACM SIGGRAPH 2013 Posters
 ## Course Projects
 
 ### **Linkage Optimizer** (2024)
-_Trajectory simulation and optimization of five-bar linkage_
+Trajectory simulation and optimization of a five-bar linkage.
 <div class="image-container">
-    <img src="assets/images/linkage-optimizer.png" alt="Image of Linkage Optimizer">
+    <a href="assets/images/linkage-optimizer.png">
+        <img src="assets/images/linkage-optimizer.png" alt="Image of Linkage Optimizer">
+    </a>
 </div>
 [code](https://github.com/yuichirose/linkage-optimizer) /
 [paper](https://drive.google.com/file/d/1kLVS_Devlsu2HFekvGNteaaIAGRVHBvL/view?usp=sharing)  
 <br>
 
 ### **STL Voxelizer** (2023)
-_STL voxelizer using ray casting algorithm and baycentric coordinate system_
+STL voxelizer using ray casting algorithm and baycentric coordinate system.
 <div class="image-container">
     <a href="assets/images/stl-voxelizer.jpg">
        <img src="assets/images/stl-voxelizer.jpg" alt="Description image for STL Voxelizer">
@@ -85,24 +103,32 @@ _STL voxelizer using ray casting algorithm and baycentric coordinate system_
 ## Weekend Projects
 
 ### **Remote Blocks** (2016)
-_Customizable learning remote control_  
+Customizable learning remote control.  
 <div class="image-container">
-    <img style="width: 50%;" src="assets/images/remote-blocks.jpg" alt="Image of Remote Blocks">
-    <img style="width: 50%;" src="assets/images/remote-blocks-1.jpg" alt="Image of Remote Blocks">
+    <!-- <img style="width: 50%;" src="assets/images/remote-blocks.jpg" alt="Image of Remote Blocks">
+    <img style="width: 50%;" src="assets/images/remote-blocks-1.jpg" alt="Image of Remote Blocks"> -->
+    <a href="assets/images/remote-blocks.jpg">
+        <img src="assets/images/remote-blocks.jpg" alt="Image of Remote Blocks">
+    </a>
+    <a href="assets/images/remote-blocks-1.jpg">
+        <img src="assets/images/remote-blocks-1.jpg" alt="Image of Remote Blocks">
+    </a>
 </div>
 <br>
 
 ### **Remote Volume** (2012)
-_Remote control that changes channels when rotated_  
+Remote control that changes channels when rotated.  
 <div class="embed-container">
     <iframe src="https://www.youtube.com/embed/cyGHt9RXjCk?si=1iGy7xz2XMIxSgyf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 <br>
 
 ### **Handmade Balans Chair** (2012)
-_DIY of the chair I wanted_
+DIY of the chair I wanted.
 <div class="image-container">
-    <img src="assets/images/handmade-balans-chair.jpg" alt="Image of Handmade Balans Chair">
+    <a href="assets/images/handmade-balans-chair.jpg">
+        <img src="assets/images/handmade-balans-chair.jpg" alt="Image of Handmade Balans Chair">
+    </a>
 </div>
 [how to make](https://www.instructables.com/handmade-balans-chair/)
 
@@ -120,16 +146,16 @@ JP7103557B2 (Japan), PCT/JP2019/051406 (International Application)
 ## Grants, Scholarship & Awards
 
 - JASSO Scholarship (2024 - 2027)  
-Research funding: 12,816,000 JPY
+Research funding: 12,816,000 JPY / 3 years
 - INNO-vation Program Disruptive Challenge Section (2018-2019, 2021-2022)  
-Research funding: 6,000,000 JPY  
+Research funding: 6,000,000 JPY / 2 years  
 [article](https://innouvators.com/en/article/10242/)  
 - S-Booster JAXA Prize (2021)  
 [article 1](https://aerospacebiz.jaxa.jp/topics/news/s-booster2021_solidknit/) / 
 [article 2](https://global.jaxa.jp/activity/pr/jaxas/no087/04.html) /
 [video](https://youtu.be/AI2rZGxZX6g?feature=shared)
 - MITOU Advanced Program (2019 - 2020)  
-Research funding: 4,567,000 JPY
+Research funding: 4,567,000 JPY / 1 year
 - Kamoe Art Center Artist-in-residence Program [Artist of the Year](https://kamoeartcenter.org/2019%E5%B9%B4%E5%BA%A6%E3%82%A2%E3%83%BC%E3%83%86%E3%82%A3%E3%82%B9%E3%83%88%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%BB%E3%83%AC%E3%82%B8%E3%83%87%E3%83%B3%E3%82%B9%E8%B3%9E%E5%8F%97%E8%B3%9E%E8%80%85/)
 
 ---

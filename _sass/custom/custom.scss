@@ -20,3 +20,38 @@
     max-width: 540px;
     gap: 0px;
 }
+
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0px;
+  max-width: 540px;
+  margin: 0 0 12px;
+  --ratio: 16 / 9;
+  --fit: cover; /* cover=trimming / contain=letter box */
+}
+
+.ratio-4-3 { --ratio: 4 / 3; }
+.ratio-16-9 { --ratio: 16 / 9; }
+.ratio-16-10_6 { --ratio: 16 / 10.6; }
+
+.cover  { --fit: cover; }
+.contain{ --fit: contain; }
+
+.gallery a.tile {
+  position: relative;
+  display: block;
+  aspect-ratio: var(--ratio);
+  overflow: hidden;
+  border-radius: 0px;
+  background: #f3f3f3;
+}
+
+.gallery a.tile img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: var(--fit);
+  display: block;
+}

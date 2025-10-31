@@ -79,7 +79,7 @@ ACM SIGGRAPH 2013 Posters
 ## Course Projects
 
 ### **Haptic Hand** (2025)
-Team project. Haptic device for the thumb and fingers that renders a virtual ball using inverse kinematics with Jacobian.
+Team project. Haptic device for the thumb and fingers that renders a virtual sphere using inverse kinematics with Jacobian.
 <div class="embed-container">
     <iframe src="https://www.youtube.com/embed/QaLxmmxieMY?si=DV8zaHXp4-OXxHwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>

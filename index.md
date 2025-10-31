@@ -83,7 +83,8 @@ Team project. Haptic device for the thumb and fingers that renders a virtual bal
 <div class="embed-container">
     <iframe src="https://www.youtube.com/embed/QaLxmmxieMY?si=DV8zaHXp4-OXxHwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
-[code](https://github.com/w3ichen/haptic-hand)
+[code](https://github.com/w3ichen/haptic-hand) /
+[report](https://drive.google.com/file/d/1LCigIZtQJtuoMh969NYRZvoC5DXTWvC4/view?usp=sharing)
 <br>
 
 ### **Whac-A-Wacko** (2024)

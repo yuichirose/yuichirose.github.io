@@ -79,7 +79,7 @@ ACM SIGGRAPH 2013 Posters
 ## Course Projects
 
 ### **Whac-A-Wacko** (2024)
-Whac-A-Mole using LEDs and phototransistors. Please note that this is not an Arduino project — we were allowed to use only a few preset functions, which means that we had to control functions such as GPIOs and timers directly by selecting appropriate registers of the microcontroller (STM32) by reading the datasheet and manipulating individual register pins by bit operations!!
+Whac-A-Mole using LEDs and phototransistors. Please note that this is not an Arduino project — we were allowed to use only a few preset functions, which means that we had to control features such as GPIOs and timers by selecting appropriate registers of the microcontroller (STM32) by reading the datasheet and manipulating individual register pins by bit operations!
 <div class="embed-container">
     <iframe src="https://www.youtube.com/embed/ocvxaet5St8?si=rxOUdBTxUPDCIfgP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>

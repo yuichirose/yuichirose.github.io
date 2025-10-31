@@ -80,8 +80,11 @@ ACM SIGGRAPH 2013 Posters
 
 ### **Haptic Hand** (2025)
 Haptic device for the thumb and fingers that renders a virtual ball using inverse kinematics with Jacobian.
-<iframe src="https://www.youtube.com/embed/QaLxmmxieMY?si=DV8zaHXp4-OXxHwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="embed-container">
+    <iframe src="https://www.youtube.com/embed/QaLxmmxieMY?si=DV8zaHXp4-OXxHwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 [code](https://github.com/w3ichen/haptic-hand)
+<br>
 
 ### **Whac-A-Wacko** (2024)
 Whac-A-Mole using LEDs and phototransistors. Please note that this is not an Arduino project — we were allowed to use only a few preset functions, which means that we had to control features such as GPIOs and timers by selecting appropriate registers of the microcontroller (STM32) by reading the datasheet and manipulating individual register pins by bit operations!
@@ -98,7 +101,7 @@ Trajectory simulation and optimization of a five-bar linkage.
     </a>
 </div>
 [code](https://github.com/yuichirose/linkage-optimizer) /
-[write-up](https://drive.google.com/file/d/1kLVS_Devlsu2HFekvGNteaaIAGRVHBvL/view?usp=sharing)  
+[report](https://drive.google.com/file/d/1kLVS_Devlsu2HFekvGNteaaIAGRVHBvL/view?usp=sharing)  
 <br>
 
 ### **STL Voxelizer** (2023)

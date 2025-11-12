@@ -164,6 +164,8 @@ JP7103557B2 (Japan), PCT/JP2019/051406 (International Application)
 
 ## Grants, Scholarship & Awards
 
+- SIGGRAPH Best Paper Honorable Mention (2024)
+[ACM SIGGRAPH Blog](https://blog.siggraph.org/2024/06/siggraph-2024-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/)
 - JASSO Scholarship (2024 - 2027)  
 Research funding: 12,816,000 JPY / 3 years
 - INNO-vation Program Disruptive Challenge Section (2018-2019, 2021-2022)  

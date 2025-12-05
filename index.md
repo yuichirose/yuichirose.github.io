@@ -66,6 +66,11 @@ Many of the samples in this album are _hand-knitted_, not by the machine describ
 
 <br>
 
+<div class="image-container">
+    <a href="assets/images/solidknit-sketch.png">
+        <img src="assets/images/solidknit-sketch.png" alt="Image of sketches for the solid knitting machine">
+    </a>
+</div>
 [Some sketches](https://drive.google.com/file/d/1wgWFw5W6sZUahMf0s59g6IBduS3hh5lC/view?usp=sharing) while I was designing the machine.
 
 <br>

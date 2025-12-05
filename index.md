@@ -33,7 +33,7 @@ ACM Transactions on Graphics (SIGGRAPH 2024)
 [paper](https://drive.google.com/file/d/1_Ly3i_uj_Tvu1TLCtzh8lTtWGDQMTGD6/view?usp=sharing) /
 [doi](https://dl.acm.org/doi/10.1145/3658123) /
 [ACM SIGGRAPH Blog](https://blog.siggraph.org/2024/07/beyond-the-threads.html/) /
-[CMU News](https://www.cmu.edu/news/stories/archives/2024/july/robotics-institute-introduces-solid-knitting-as-new-fabrication-technique)
+[CMU News](https://www.cmu.edu/news/stories/archives/2024/july/robotics-institute-introduces-solid-knitting-as-new-fabrication-technique) 
 [Best Paper (Honorable Mention)](https://blog.siggraph.org/2024/06/siggraph-2024-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/){: .label .label-yellow }  
 <br>
 
@@ -63,6 +63,10 @@ ACM Transactions on Graphics (SIGGRAPH 2024)
 
 [solid knitting samples](https://photos.app.goo.gl/vugGd1rNnUvkTyXg7)  
 Many of the samples in this album are _hand-knitted_, not by the machine described in the paper. My PhD goal is to enable the machine to knit them.
+
+<br>
+
+[Some sketches](https://drive.google.com/file/d/1wgWFw5W6sZUahMf0s59g6IBduS3hh5lC/view?usp=sharing) while I was designing the machine.
 
 <br>
 
